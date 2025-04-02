@@ -34,21 +34,13 @@ This project is a Streamlit application that leverages the power of Google's Gem
 
 ## Screenshots/Videos
 
-### Add Screenshots and Videos Here!
 
-*   **Screenshot 1:** [Link to Screenshot 1]
-    *   Description of the screenshot.
-    *   ![Screenshot 1](Link to Screenshot 1)
+![SmartATS1](https://github.com/user-attachments/assets/e34e7ea2-9ae6-4698-939d-14cefdc37a39)
 
-*   **Screenshot 2:** [Link to Screenshot 2]
-    *   Description of the screenshot.
-    *   ![Screenshot 2](Link to Screenshot 2)
+<img width="1279" alt="SmartATS2" src="https://github.com/user-attachments/assets/ff5e13f9-b655-456d-a036-9985f7e3f715" />
 
-*   **Video Demonstration:** [Link to Video]
-    *   A short video demonstrating the application in action.
-    *   [![Watch the video](link to thumbnail image)](link to video)
+https://github.com/user-attachments/assets/a78d905e-7ce5-44a0-832b-85139d80a57b
 
-(Remember to replace the bracketed placeholders above with actual links and descriptions!)
 
 ## Installation
 
